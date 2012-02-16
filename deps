@@ -108,7 +108,7 @@
     target=/bundles/CCDNComponent/CrumbTrailBundle
 
 [CCDNForum]
-    git=http://github.com/codeconsortium/CCDNForum.git
+    git=http://github.com/cordoval/CCDNForum.git
     target=/bundles/CCDNForum
 
 [CCDNUser]
