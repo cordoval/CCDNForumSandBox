@@ -6,3 +6,5 @@ build/
 vendor/
 .idea
 app/config/parameters.yml
+Capfile
+app/config/deploy.rb
