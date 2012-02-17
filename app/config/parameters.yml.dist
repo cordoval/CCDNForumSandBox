@@ -17,3 +17,5 @@ parameters:
   facebook_app_secret: 12121
   server_host:       forum.local
 
+  ewz_private_key:   xyz
+  ewz_public_key:    xyz
