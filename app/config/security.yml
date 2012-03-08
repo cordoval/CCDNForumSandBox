@@ -24,7 +24,9 @@ security:
 #                check_path: /login_check
 #                default_target_path: /
 #                provider:       my_fos_facebook_provider
-#            logout:
+            logout:
+                 path:   /logout
+#                 target: /
 #                handlers: ["fos_facebook.logout_handler"]
             anonymous:  true
             form_login:

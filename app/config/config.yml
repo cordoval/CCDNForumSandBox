@@ -174,7 +174,7 @@ ccdn_component_attachment:
         engine: twig
         theme: CCDNComponentAttachmentBundle:Form:fields.html.twig
     store:
-        dir: /users/reecefowell/projects/htdocs/symfony/store/
+        dir: %attachment_store_folder%
     quota_per_user:
         max_files_quantity: 20
         max_filesize_per_file: 300KiB

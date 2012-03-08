@@ -4,7 +4,7 @@
     database_port= -
     database_name= "codeconsortium"
     database_user= "root"
-    database_password= "root"
+    database_password= "animos77"
 
     mailer_transport= "smtp"
     mailer_host= "localhost"
@@ -17,3 +17,5 @@
     facebook_app_id= "121212"
     facebook_app_secret= "121212"
     server_host= "forum.local"
+
+    attachment_store_folder= "/home/cordoval/sites-2/forum-ccdn/store/"
